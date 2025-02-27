@@ -1,0 +1,67 @@
+img {
+    border-radius: 5vh;
+    width: 15vh;
+    height: 15vh;
+    border: 5px dotted aqua;
+}
+
+h1 {
+    font-size: 7vh;
+}
+
+body {
+    font-family:Arial, Helvetica;
+    margin: 0;
+    background-color: rgb(216, 234, 240);
+}
+
+#header {
+    background-color:rgb(29, 161, 249);
+    padding: 5px 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    color:white;
+
+}
+
+section {
+    margin: 50px 30px;
+}
+
+#name {
+    color: rgb(188, 252, 255);  
+    margin-bottom: 0;
+    text-shadow: 3px 3px #000000;
+}
+#role {
+    margin-top: 0;
+}
+
+h2 {
+    font-size: 5vh;
+}
+
+h3 {
+    font-size: 3vh;
+}
+
+h4 {
+    font-size: 3vh;
+}
+
+.cca {
+    background-color:rgb(188, 223, 234);
+    padding: 10px 15px 5px 15px;
+    border-radius: 5px;
+    margin-bottom: 15px;
+}
+
+.cca h4 {
+    margin-top: 0;
+}
+
+p {
+    font-size: 2.5vh;
+}
